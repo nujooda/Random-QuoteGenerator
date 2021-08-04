@@ -1,0 +1,9 @@
+.container {
+margin: auto;
+margin-top: 80px;
+width: 400px;
+height: 300px;
+border: 2px solid pink;
+border-radius: 5px;
+padding: 10px;
+}
