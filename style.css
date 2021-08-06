@@ -1,9 +1,30 @@
+body{
+    color: #000;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e5e5e5;
+    height: 100vh;
+}
+
 .container {
 margin: auto;
-margin-top: 80px;
 width: 400px;
-height: 300px;
-border: 2px solid pink;
+border: 2px solid rgb(134, 134, 211);
 border-radius: 5px;
-padding: 10px;
+padding: 50px;
+background-color: #d0eaff;
+
+}
+.btn-container{
+  float: right;  
+}
+.btn {
+
+    color:  #e5e5e5;
+    background-color:rgb(134, 134, 211) ;
+    padding: 5px 10px;
+    text-align: right;
+    border-radius: 5px;
 }
